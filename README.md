@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashita Jain</h1>
-- 🔭 I’m currently working on **expanding my knowledge and skills.**
+- 🔭 I’m currently working on expanding my knowledge and skills.
 
 - 🌱 I’m currently learning **DSA,OOP,Reactjs,Python.**
 
